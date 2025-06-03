@@ -1,4 +1,4 @@
-## Hi there, I'm Mario Acuña "CENTINELA03" 👋 
+## Hi there, I'm Mario Acuña "CENTINELA-03" 👋 
 
 **My Research Interest**:
 - Outlying Aspect Mining
